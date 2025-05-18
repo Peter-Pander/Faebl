@@ -1,0 +1,13 @@
+# — Godot project files & caches —
+.godot/                # Editor’s own folder (layout, history, caches)
+.import/               # Raw import cache
+*.import               # Per-file import metadata (e.g. icon.svg.import)
+export.cfg             # Local export settings
+
+# — Optional extras —
+# If you ever add web tooling or npm scripts:
+node_modules/
+dist/
+
+# — Mobile export —
+/android/              # Android export folder
