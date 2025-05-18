@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://xd51o7i3yqff"]
 
 [ext_resource type="Script" uid="uid://1e5gkjye4p8m" path="res://scripts/Player.gd" id="1_v0lov"]
-[ext_resource type="Texture2D" uid="uid://blvjorcwswu27" path="res://icon.svg" id="2_3fy0r"]
+[ext_resource type="Texture2D" uid="uid://bnw8ayrawix8n" path="res://Faye.png" id="2_3fy0r"]
 
 [node name="ForestGlade" type="Node2D"]
 

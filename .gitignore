@@ -1,13 +1,28 @@
 # — Godot project files & caches —
-.godot/                # Editor’s own folder (layout, history, caches)
-.import/               # Raw import cache
-*.import               # Per-file import metadata (e.g. icon.svg.import)
-export.cfg             # Local export settings
+/.godot/                # Editor’s own folder (layout, history, caches)
+/.import/               # Raw import cache
+*.import                # Per-file import metadata (e.g. Faye.png.import)
+
+# Godot–generated scene metadata
+*.tscn-editstate-*      # editstate backups
+*.tscn-folding-*        # folding backups
+
+# Godot shader & cache spills (if any ever end up at root)
+*.ctex
+*.cache
+
+# Additional stray Godot files (sometimes end up at project root)
+scene_groups_cache.cfg
+global_script_class_cache.cfg
+uid_cache.bin
+
+# Godot export settings
+export.cfg
+export_presets.cfg      # (Godot 4)
 
 # — Optional extras —
-# If you ever add web tooling or npm scripts:
-node_modules/
-dist/
+/node_modules/
+/dist/
 
 # — Mobile export —
-/android/              # Android export folder
+/android/               # Android export folder

@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1747586191
+Faye.png::CompressedTexture2D::3346296909189950507::1747586191::1747586191::1::::<><><>0<>0<>04155a540d503f839b9fba8bf73acd59<>res://.godot/imported/Faye.png-5226a16d41922245d7e6d2c4913fe4dc.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::3202422247607362710::1747576149::1747576155::1::::<><><>0<>0<>551d76830519da8ac25835b96f3807e4<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile/TextFile::-1::1747571303::0::1::::<><><>0<>0<><>::
+::res://assets/::1747578162
+::res://docs/::1747571452
+::res://scenes/::1747585691
+forest_glade.tscn::PackedScene::1622405262523951471::1747585691::0::1::::<><><>0<>0<><>::uid://1e5gkjye4p8m::::res://scripts/Player.gd<>uid://cvwomexy66y5w::::res://Faye.png
+::res://scripts/::1747580365
+Player.gd::GDScript::1835000210385199378::1747580365::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://tools/::1747578067
+::res://www/::1747571452
